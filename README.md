@@ -27,24 +27,24 @@ Proyecto académico donde se analiza la Transformada de Fourier de señales bás
 
 ## Señal Senoidal
 
-![Seno Tiempo](07_sin_time (1).png)
+![Seno Tiempo](07_sin_time.png)
 
-![Magnitud Seno](08_sin_mag (1).png)
+![Magnitud Seno](08_sin_mag.png)
 
 ---
 
 ## Propiedad de Linealidad
 
-![Linealidad](10_linearity_mag (1).png)
+![Linealidad](10_linearity_mag.png)
 
 ---
 
 ## Propiedad de Escalamiento
 
-![Escalamiento](12_scaling_mag (1).png)
+![Escalamiento](12_scaling_mag.png)
 
 ---
 
 ## Propiedad de Desplazamiento
 
-![Desplazamiento](11_timeshift_mag (1).png)
+![Desplazamiento](11_timeshift_mag.png)
